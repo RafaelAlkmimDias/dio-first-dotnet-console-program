@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DigitalInnovationOneFirstConsole/1.0.0": {
+        "runtime": {
+          "DigitalInnovationOneFirstConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DigitalInnovationOneFirstConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

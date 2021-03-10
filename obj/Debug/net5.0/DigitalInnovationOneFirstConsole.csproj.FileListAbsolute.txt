@@ -1,0 +1,16 @@
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/bin/Debug/net5.0/DigitalInnovationOneFirstConsole
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/bin/Debug/net5.0/DigitalInnovationOneFirstConsole.deps.json
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/bin/Debug/net5.0/DigitalInnovationOneFirstConsole.runtimeconfig.json
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/bin/Debug/net5.0/DigitalInnovationOneFirstConsole.runtimeconfig.dev.json
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/bin/Debug/net5.0/DigitalInnovationOneFirstConsole.dll
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/bin/Debug/net5.0/ref/DigitalInnovationOneFirstConsole.dll
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/bin/Debug/net5.0/DigitalInnovationOneFirstConsole.pdb
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/obj/Debug/net5.0/DigitalInnovationOneFirstConsole.csprojAssemblyReference.cache
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/obj/Debug/net5.0/DigitalInnovationOneFirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/obj/Debug/net5.0/DigitalInnovationOneFirstConsole.AssemblyInfoInputs.cache
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/obj/Debug/net5.0/DigitalInnovationOneFirstConsole.AssemblyInfo.cs
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/obj/Debug/net5.0/DigitalInnovationOneFirstConsole.csproj.CoreCompileInputs.cache
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/obj/Debug/net5.0/DigitalInnovationOneFirstConsole.dll
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/obj/Debug/net5.0/ref/DigitalInnovationOneFirstConsole.dll
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/obj/Debug/net5.0/DigitalInnovationOneFirstConsole.pdb
+/home/rafael/Documents/dio/DigitalInnovationOneFirstConsole/obj/Debug/net5.0/DigitalInnovationOneFirstConsole.genruntimeconfig.cache
